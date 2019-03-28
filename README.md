@@ -1,87 +1,87 @@
-acf		���ȑ��֌W��
-alpha		�N�����o�b�N�̃��M�����W��
-Bartlett	3�Q�ȏ�̓����U���̌���i�o�[�g���b�g����j
-binomial	�񍀕��z�֐�
-biplot		�o�C�v���b�g�i���ْl�����j
-ca-test		�R�N�����E�A�[�~�e�[�W����
-chi-sq-test	�J�C��挟��i�Ɨ����̌���j
-chi-sq-test-s	�J�C��挟��i�Ɨ����̌���j
-clustan		�N���X�^�[����
-cochran		�R�N������ Q ����
-cochranq	�R�N������ Q ����
-corr5		���֌W���E�Α��֌W���E�d���֌W��
-corr-eq		���֌W���̓������̌���Ɠ_����
-cross		�N���X�W�v
-distribution	���v�w�֐�
-dual		�o�Ύړx�@�i�����\����j
-dummy		�_�~�[�ϐ��̍쐬
-eigen		�ŗL�l�E�ŗL�x�N�g�������߂�
-eigen2		�ŗL�l�E�ŗL�x�N�g�������߂�֐�
-EqVar		2�Q�̓����U���̌���
-fisher		�t�B�b�V���[�̒��ڊm��
-fit_asymptotic	����`�ŏ����@�ɂ��Q�ߎw���Ȑ��̂��Ă͂�
-fit_asymptotic2	����`�ŏ����@�ɂ��w���Ȑ��̂��Ă͂�
-fit_exp1	����`�ŏ����@�ɂ��w���Ȑ��̂��Ă͂�
-fit_exp2	����`�ŏ����@�ɂ��w���Ȑ��̂��Ă͂�
-fit_exp3	����`�ŏ����@�ɂ��w���Ȑ��̂��Ă͂�
-fit_gomperts	����`�ŏ����@�ɂ��S���y���c�Ȑ��̂��Ă͂�
-fit_hyperbola	����`�ŏ����@�ɂ��o�Ȑ��̂��Ă͂�
-fit_logistic	����`�ŏ����@�ɂ�郍�W�X�e�B�b�N�Ȑ��̂��Ă͂�
-fit_logistic2	����`�ŏ����@�ɂ�郍�W�X�e�B�b�N�Ȑ��̂��Ă͂�
-fit_logistic3	����`�ŏ����@�ɂ�郍�W�X�e�B�b�N�Ȑ��̂��Ă͂�
-fit_sin		����`�ŏ����@�ɂ������֐��̂��Ă͂�
-fit_weibull	����`�ŏ����@�ɂ�郏�C�u�����z�̂��Ă͂�
-frequency-table	�x�����z�\�̍쐬
-friedman	�t���[�h�}���̌���
-friedman2	�t���[�h�}���̌���
-gendat		�w�肳�ꂽ���֌W���s������f�[�^�s��𐶐�����
-Heterogeneity	�ގ��x�w���Ƒ��l�x�w��
-hypergeometric	���􉽕��z�֐�
-intraclass-corr	�������֌W��
-intraclass-corr2	�������֌W�������߂�֐�
-inv			�t�s��
-japan		���{�n�}
-kakuritudaen	�񎟌����K���z�̊m���ȉ~
-kappa		�ȓ��v��
-kendall		�P���h�[���̏��ʑ��֌W��
-kendall-matrix	�P���h�[���̏��ʑ��֌W���s��
-kendall-tau-b	�P���h�[���̃�b�i�����\����j
-kendall-w	�P���h�[���̈�v�x�W��
-km-surv		�J�v�����E���C���[�@�ɂ�鐶���\
-kwtest		�N���X�J���E�E�H���X����
-kyoubunsanhi	�����U��
-ld50		�v���r�b�g�@�ɂ��LD50,ED50�Ȃǂ̌v�Z
-mahalanobis	�}�n���m�r�X�̋����̌v�Z
-McNemar		�}�N�l�}�[����i2�~2�����\���傫���ꍇ�ւ̊g�����܂ށj
-mcnemar2	�}�N�l�}�[����i2�~2�����\���傫���ꍇ�ւ̊g�����܂ށj
-median-conf	�����l�̓_����l�ƐM�����
-mlogist		���d���W�X�e�B�b�N���f��
-mreg-qt1	�J�e�S���[�ϐ��̑I���i�ϐ������@�j���s���d��A���́i���ʉ� I �ށj
-norm_curve	���K���z�Ȑ�
-oneway-ANOVA	�ꌳ�z�u���U����
-oresen-kaiki	��{�̒����ɂ��܂����A
-pca		�听������
-pearson-matrix	�s�A�\���̐ϗ����֌W���s��
-pfa		���q����
-poisson2	�|�A�\�����z�֐�
-preg		��������A
-princo		����W����
-qt1		���ʉ� I ��
-qt2		���ʉ� II ��
-qt3		���ʉ� III ��
-qt4		���ʉ� IV ��
-random		����
-sample-size2	��Q�̕��ϒl�̍��̌���ɕK�v�ȕW�{�T�C�Y
-sdis		���ʕ��́i�X�e�b�v���C�Y�ϐ��I���j
-sinraigenkaitai	������A�̐M�����E��
-spearman	�X�s�A�}���̏��ʑ��֌W��
-spearman-matrix	�X�s�A�}���̏��ʑ��֌W���s��
-sreg		�d��A���́i�X�e�b�v���C�Y�ϐ��I���j
-sregc		��_��ʂ��A����
-svdcmp		���ْl����
-t-test		2�Q�̕��ϒl�̍��̌���it ����j
-two_sample	��Q�̑�\�l�̍��̌���
-TwoWayANOVA	�񌳔z�u���U����
+acf		自己相関係数
+alpha		クロンバックのα信頼性係数
+Bartlett	3群以上の等分散性の検定（バートレット検定）
+binomial	二項分布関数
+biplot		バイプロット（特異値分解）
+ca-test		コクラン・アーミテージ検定
+chi-sq-test	カイ二乗検定（独立性の検定）
+chi-sq-test-s	カイ二乗検定（独立性の検定）
+clustan		クラスター分析
+cochran		コクランの Q 検定
+cochranq	コクランの Q 検定
+corr5		相関係数・偏相関係数・重相関係数
+corr-eq		相関係数の同等性の検定と点推定
+cross		クロス集計
+distribution	統計学関数
+dual		双対尺度法（分割表から）
+dummy		ダミー変数の作成
+eigen		固有値・固有ベクトルを求める
+eigen2		固有値・固有ベクトルを求める関数
+EqVar		2群の等分散性の検定
+fisher		フィッシャーの直接確率
+fit_asymptotic	非線形最小二乗法による漸近指数曲線のあてはめ
+fit_asymptotic2	非線形最小二乗法による指数曲線のあてはめ
+fit_exp1	非線形最小二乗法による指数曲線のあてはめ
+fit_exp2	非線形最小二乗法による指数曲線のあてはめ
+fit_exp3	非線形最小二乗法による指数曲線のあてはめ
+fit_gomperts	非線形最小二乗法によるゴンペルツ曲線のあてはめ
+fit_hyperbola	非線形最小二乗法による双曲線のあてはめ
+fit_logistic	非線形最小二乗法によるロジスティック曲線のあてはめ
+fit_logistic2	非線形最小二乗法によるロジスティック曲線のあてはめ
+fit_logistic3	非線形最小二乗法によるロジスティック曲線のあてはめ
+fit_sin		非線形最小二乗法による周期関数のあてはめ
+fit_weibull	非線形最小二乗法によるワイブル分布のあてはめ
+frequency-table	度数分布表の作成
+friedman	フリードマンの検定
+friedman2	フリードマンの検定
+gendat		指定された相関係数行列を持つデータ行列を生成する
+Heterogeneity	類似度指数と多様度指数
+hypergeometric	超幾何分布関数
+intraclass-corr	級内相関係数
+intraclass-corr2	級内相関係数を求める関数
+inv			逆行列
+japan		日本地図
+kakuritudaen	二次元正規分布の確率楕円
+kappa		κ統計量
+kendall		ケンドールの順位相関係数
+kendall-matrix	ケンドールの順位相関係数行列
+kendall-tau-b	ケンドールのτb（分割表から）
+kendall-w	ケンドールの一致度係数
+km-surv		カプラン・メイヤー法による生命表
+kwtest		クラスカル・ウォリス検定
+kyoubunsanhi	共分散比
+ld50		プロビット法によるLD50,ED50などの計算
+mahalanobis	マハラノビスの距離の計算
+McNemar		マクネマー検定（2×2分割表より大きい場合への拡張を含む）
+mcnemar2	マクネマー検定（2×2分割表より大きい場合への拡張を含む）
+median-conf	中央値の点推定値と信頼区間
+mlogist		多重ロジスティックモデル
+mreg-qt1	カテゴリー変数の選択（変数増加法）を行う重回帰分析（数量化 I 類）
+norm_curve	正規分布曲線
+oneway-ANOVA	一元配置分散分析
+oresen-kaiki	二本の直線による折れ線回帰
+pca		主成分分析
+pearson-matrix	ピアソンの積率相関係数行列
+pfa		因子分析
+poisson2	ポアソン分布関数
+preg		多項式回帰
+princo		主座標分析
+qt1		数量化 I 類
+qt2		数量化 II 類
+qt3		数量化 III 類
+qt4		数量化 IV 類
+random		乱数
+sample-size2	二群の平均値の差の検定に必要な標本サイズ
+sdis		判別分析（ステップワイズ変数選択）
+sinraigenkaitai	直線回帰の信頼限界帯
+spearman	スピアマンの順位相関係数
+spearman-matrix	スピアマンの順位相関係数行列
+sreg		重回帰分析（ステップワイズ変数選択）
+sregc		定点を通る回帰直線
+svdcmp		特異値分解
+t-test		2群の平均値の差の検定（t 検定）
+two_sample	二群の代表値の差の検定
+TwoWayANOVA	二元配置分散分析
 
 
 
